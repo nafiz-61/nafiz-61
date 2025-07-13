@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nafiz Zubaer</h1>
 
 # 💫 About Me:
-🌱 I’m currently learning **React, Node.js, MongoDB**<br><br>- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**<br><br>- 📫 How to reach me **nafiz@email.com**<br><br>- ⚡ Fun fact: **I like solving bugs more than writing new code!**<br>
+🌱 I’m currently learning **React, Node.js, MongoDB**<br><br>- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**<br><br>- 📫 How to reach me **nafizzubaer61@gmail.com**<br><br>- ⚡ Fun fact: **I like solving bugs more than writing new code!**<br>
 
 
 ## 🌐 Socials:
