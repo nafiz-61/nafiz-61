@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif"/>
+
 <h1 align="center">Hi 👋, I'm Nafiz Zubaer</h1>
 
 # 💫 About Me:
