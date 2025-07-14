@@ -1,5 +1,6 @@
 <img align="center" alt="coding" src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif"/>
 <h1 align="center">Hi 👋, I'm Nafiz Zubaer</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning **React, Node.js, MongoDB**<br><br>- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**<br><br>- 📫 How to reach me **nafizzubaer61@gmail.com**<br><br>- ⚡ Fun fact: **I like solving bugs more than writing new code!**<br>
